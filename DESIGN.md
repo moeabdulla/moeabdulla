@@ -1,6 +1,6 @@
 # Profile artwork
 
-A visual front door to son.moe: Instrument Sans / Instrument Serif, warm paper, charcoal and the portfolio's red route line. The short Markdown introduction and image alt text keep the content understandable without relying on the artwork.
+A visual front door to moeabdulla.com: Instrument Sans / Instrument Serif, warm paper, charcoal and the portfolio's red route line. The short Markdown introduction and image alt text keep the content understandable without relying on the artwork.
 
 ## Motion and assets
 
